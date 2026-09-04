@@ -11,6 +11,10 @@ VB.NET Windows Forms WinExe from the Empired era that lodges a service-desk prob
 
 Open `Service Desk.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## License
 
 MIT License. Copyright (c) 2026 VaderConsulting. See `LICENSE`. Originally written for Empired; the Empired name remains in the window title and logo.
